@@ -2,7 +2,9 @@
 
 <img src="https://user-images.githubusercontent.com/81340603/204945336-287ce115-ac38-409f-8136-039ae4d5e140.png" />
 
+<br>
 
+<br>
 
 ## 🔑 Overview
 
@@ -200,18 +202,6 @@ func keywordCollectionViewLayout() -> UICollectionViewCompositionalLayout {
     - ViewController와 ViewModel의 바인딩이 `viewDidLoad`에서 이루어졌고, `methodInvoked(_:)`는 `viewDidLoad`가 끝나고 난 뒤 이벤트를 전달함을 알게 되었습니다.
 
 - 이 과정에서, RxSwift의 Observable에 대해 더 깊게 이해하였고, Hot Observable과 Cold Observable의 차이점에 대해 알게 되었습니다.
-
-
-
-
-
-<br>
-
-<br>
-
-
-## 🗂 Directory Structure
-<img src="https://user-images.githubusercontent.com/81340603/204957214-2d19ce84-04d6-49c3-9c11-9984be7fd7d6.png" />
 
 
 <br>
