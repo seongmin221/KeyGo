@@ -211,9 +211,9 @@ func keywordCollectionViewLayout() -> UICollectionViewCompositionalLayout {
 
 ## 🔩 Tech & Skills
 
-<img src="https://img.shields.io/badge/UIKit-blue"> <img src="https://img.shields.io/badge/Alamofire-blue"> <img src="https://img.shields.io/badge/SnapKit-blue"> <br>
-<img src="https://img.shields.io/badge/Figma-red"> <br>
-<img src="https://img.shields.io/badge/Github-yellow"> <img src="https://img.shields.io/badge/Miro-yellow"> <img src="https://img.shields.io/badge/Notion-yellow"> <img src="https://img.shields.io/badge/Slack-yellow">
+<img src="https://img.shields.io/badge/UIKit-blue" height="30"> <img src="https://img.shields.io/badge/Alamofire-blue" height="30"> <img src="https://img.shields.io/badge/SnapKit-blue" height="30"> <br>
+<img src="https://img.shields.io/badge/Figma-red" height="30"> <br>
+<img src="https://img.shields.io/badge/Github-yellow" height="30"> <img src="https://img.shields.io/badge/Miro-yellow" height="30"> <img src="https://img.shields.io/badge/Notion-yellow" height="30"> <img src="https://img.shields.io/badge/Slack-yellow" height="30">
 
 
 <br>
