@@ -223,7 +223,7 @@ func keywordCollectionViewLayout() -> UICollectionViewCompositionalLayout {
 
 ## 🛠 Development Environment
 
-<img src="https://img.shields.io/badge/iOS-14+-silver"> <img src="https://img.shields.io/badge/Xcode-14.0-blue">
+<img src="https://img.shields.io/badge/iOS-14+-silver" height="30"> <img src="https://img.shields.io/badge/Xcode-14.0-blue" height="30">
 
 
 <br>
